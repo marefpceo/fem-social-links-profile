@@ -10,6 +10,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
+  - [Useful resources](#useful-resources)
 - [Author](#author)
 
 
@@ -27,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/marefpceo/fem-social-links-profile)
-- Live Site URL: [Add live site URL here](https://marefpceo.github.io/fem-social-links-profile)
+- Solution URL: [Review code](https://github.com/marefpceo/fem-social-links-profile)
+- Live Site URL: [Live Site](https://marefpceo.github.io/fem-social-links-profile)
 
 ## My process
 
@@ -37,6 +38,14 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+
+
+### Useful resources
+
+- [MDN Web Docs](https://developer.mozilla.org/en-US/) - Great resource I use often to explain concepts and make sure that I am maintaining best practices.
+
+- [avataaars generator](https://getavataaars.com/) -  I used this site to create a simple avatar to use.
+
 
 ## Author
 
